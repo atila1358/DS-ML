@@ -1,0 +1,517 @@
+sector,sector_label,sub_sector,symbol
+industrials,Industrials,industrial_conglomerates,UTX
+industrials,Industrials,industrial_conglomerates,XYL
+industrials,Industrials,air_freight_&_logistics,CHRW
+industrials,Industrials,air_freight_&_logistics,EXPD
+industrials,Industrials,air_freight_&_logistics,FDX
+industrials,Industrials,air_freight_&_logistics,UPS
+industrials,Industrials,construction_&_farm_machinery_&_heavy_trucks,CAT
+industrials,Industrials,construction_&_farm_machinery_&_heavy_trucks,DE
+industrials,Industrials,construction_&_farm_machinery_&_heavy_trucks,PCAR
+industrials,Industrials,building_products,ALLE
+industrials,Industrials,building_products,FAST
+industrials,Industrials,building_products,MAS
+industrials,Industrials,trading_companies_&_distributors,URI
+energy,Energy,oil_&_gas_refining_&_marketing_&_transportation,KMI
+energy,Energy,oil_&_gas_refining_&_marketing_&_transportation,MPC
+energy,Energy,oil_&_gas_refining_&_marketing_&_transportation,PSX
+energy,Energy,oil_&_gas_refining_&_marketing_&_transportation,SE
+energy,Energy,oil_&_gas_refining_&_marketing_&_transportation,TSO
+energy,Energy,oil_&_gas_refining_&_marketing_&_transportation,VLO
+energy,Energy,oil_&_gas_drilling,DO
+energy,Energy,oil_&_gas_drilling,ESV
+energy,Energy,oil_&_gas_drilling,HP
+energy,Energy,oil_&_gas_drilling,RIG
+energy,Energy,oil_&_gas_exploration_&_production,APC
+energy,Energy,oil_&_gas_exploration_&_production,APA
+energy,Energy,oil_&_gas_exploration_&_production,COG
+energy,Energy,oil_&_gas_exploration_&_production,XEC
+energy,Energy,oil_&_gas_exploration_&_production,COP
+energy,Energy,oil_&_gas_exploration_&_production,DVN
+energy,Energy,oil_&_gas_exploration_&_production,EOG
+energy,Energy,oil_&_gas_exploration_&_production,EQT
+energy,Energy,oil_&_gas_exploration_&_production,MRO
+energy,Energy,oil_&_gas_exploration_&_production,NFX
+energy,Energy,oil_&_gas_exploration_&_production,NBL
+energy,Energy,oil_&_gas_exploration_&_production,OXY
+energy,Energy,oil_&_gas_exploration_&_production,OKE
+energy,Energy,oil_&_gas_exploration_&_production,PXD
+energy,Energy,oil_&_gas_exploration_&_production,RRC
+energy,Energy,oil_&_gas_exploration_&_production,SWN
+energy,Energy,oil_&_gas_exploration_&_production,WMB
+energy,Energy,oil_&_gas_storage_&_transportation,CPGX
+energy,Energy,coal_&_consumable_fuels,CNX
+energy,Energy,integrated_oil_&_gas,CHK
+energy,Energy,integrated_oil_&_gas,CVX
+energy,Energy,integrated_oil_&_gas,XOM
+energy,Energy,integrated_oil_&_gas,HES
+energy,Energy,integrated_oil_&_gas,MUR
+energy,Energy,oil_&_gas_equipment_&_services,BHI
+energy,Energy,oil_&_gas_equipment_&_services,CAM
+energy,Energy,oil_&_gas_equipment_&_services,FTI
+energy,Energy,oil_&_gas_equipment_&_services,HAL
+energy,Energy,oil_&_gas_equipment_&_services,NOV
+energy,Energy,oil_&_gas_equipment_&_services,SLB
+"consumer_discretionary,""Consumer"
+"Discretionary"",leisure_products,HAS"
+"consumer_discretionary,""Consumer"
+"Discretionary"",leisure_products,MAT"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""hotel,_resorts_and_cruise_lines"",RCL"
+"consumer_discretionary,""Consumer"
+"Discretionary"",consumer_electronics,GRMN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",consumer_electronics,HAR"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,CVC"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,CBS"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,CMCSA"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,DTV"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,DISCA"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,DISCK"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,SNI"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,TWX"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,TWC"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,VIAB"
+"consumer_discretionary,""Consumer"
+"Discretionary"",broadcasting_&_cable_tv,DIS"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""hotels,_resorts_&_cruise_lines"",CCL"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""hotels,_resorts_&_cruise_lines"",EXPE"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""hotels,_resorts_&_cruise_lines"",MAR"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""hotels,_resorts_&_cruise_lines"",PCLN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""hotels,_resorts_&_cruise_lines"",HOT"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""hotels,_resorts_&_cruise_lines"",WYN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",auto_parts_&_equipment,BWA"
+"consumer_discretionary,""Consumer"
+"Discretionary"",auto_parts_&_equipment,DLPH"
+"consumer_discretionary,""Consumer"
+"Discretionary"",auto_parts_&_equipment,JCI"
+"consumer_discretionary,""Consumer"
+"Discretionary"",computer_&_electronics_retail,BBY"
+"consumer_discretionary,""Consumer"
+"Discretionary"",computer_&_electronics_retail,GME"
+"consumer_discretionary,""Consumer"
+"Discretionary"",publishing,NWSA"
+"consumer_discretionary,""Consumer"
+"Discretionary"",publishing,TGNA"
+"consumer_discretionary,""Consumer"
+"Discretionary"",publishing,FOXA"
+"consumer_discretionary,""Consumer"
+"Discretionary"",home_furnishings,MHK"
+"consumer_discretionary,""Consumer"
+"Discretionary"",general_merchandise_stores,DG"
+"consumer_discretionary,""Consumer"
+"Discretionary"",general_merchandise_stores,DLTR"
+"consumer_discretionary,""Consumer"
+"Discretionary"",general_merchandise_stores,KSS"
+"consumer_discretionary,""Consumer"
+"Discretionary"",general_merchandise_stores,TGT"
+"consumer_discretionary,""Consumer"
+"Discretionary"",motorcycle_manufacturers,HOG"
+"consumer_discretionary,""Consumer"
+"Discretionary"",home_improvement_retail,HD"
+"consumer_discretionary,""Consumer"
+"Discretionary"",home_improvement_retail,LOW"
+"consumer_discretionary,""Consumer"
+"Discretionary"",department_stores,M"
+"consumer_discretionary,""Consumer"
+"Discretionary"",department_stores,JWN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",housewares_&_specialties,NWL"
+"consumer_discretionary,""Consumer"
+"Discretionary"",homebuilding,DHI"
+"consumer_discretionary,""Consumer"
+"Discretionary"",homebuilding,LEN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",homebuilding,PHM"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",COH"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",FOSL"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",HBI"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",KORS"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",NKE"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",RL"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",PVH"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",TIF"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",UA"
+"consumer_discretionary,""Consumer"
+"Discretionary"",""apparel,_accessories_&_luxury_goods"",VFC"
+"consumer_discretionary,""Consumer"
+"Discretionary"",tires_&_rubber,GT"
+"consumer_discretionary,""Consumer"
+"Discretionary"",specialty_stores,AN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",specialty_stores,AZO"
+"consumer_discretionary,""Consumer"
+"Discretionary"",specialty_stores,BBBY"
+"consumer_discretionary,""Consumer"
+"Discretionary"",specialty_stores,KMX"
+"consumer_discretionary,""Consumer"
+"Discretionary"",specialty_stores,GPC"
+"consumer_discretionary,""Consumer"
+"Discretionary"",specialty_stores,ORLY"
+"consumer_discretionary,""Consumer"
+"Discretionary"",specialty_stores,SPLS"
+"consumer_discretionary,""Consumer"
+"Discretionary"",apparel_retail,GPS"
+"consumer_discretionary,""Consumer"
+"Discretionary"",apparel_retail,LB"
+"consumer_discretionary,""Consumer"
+"Discretionary"",apparel_retail,ROST"
+"consumer_discretionary,""Consumer"
+"Discretionary"",apparel_retail,TJX"
+"consumer_discretionary,""Consumer"
+"Discretionary"",apparel_retail,URBN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",household_appliances,SNA"
+"consumer_discretionary,""Consumer"
+"Discretionary"",household_appliances,SWK"
+"consumer_discretionary,""Consumer"
+"Discretionary"",household_appliances,WHR"
+"consumer_discretionary,""Consumer"
+"Discretionary"",casinos_&_gaming,WYNN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",automotive_retail,AAP"
+"consumer_discretionary,""Consumer"
+"Discretionary"",specialty_retail,TSCO"
+"consumer_discretionary,""Consumer"
+"Discretionary"",automobile_manufacturers,F"
+"consumer_discretionary,""Consumer"
+"Discretionary"",automobile_manufacturers,GM"
+"consumer_discretionary,""Consumer"
+"Discretionary"",advertising,IPG"
+"consumer_discretionary,""Consumer"
+"Discretionary"",advertising,OMC"
+"consumer_discretionary,""Consumer"
+"Discretionary"",internet_retail,AMZN"
+"consumer_discretionary,""Consumer"
+"Discretionary"",internet_retail,TRIP"
+"consumer_discretionary,""Consumer"
+"Discretionary"",restaurants,CMG"
+"consumer_discretionary,""Consumer"
+"Discretionary"",restaurants,DRI"
+"consumer_discretionary,""Consumer"
+"Discretionary"",restaurants,MCD"
+"consumer_discretionary,""Consumer"
+"Discretionary"",restaurants,SBUX"
+"consumer_discretionary,""Consumer"
+"Discretionary"",restaurants,YUM"
+utilities,Utilities,gas_utilities,GAS
+utilities,Utilities,multiutilities,AEE
+utilities,Utilities,multiutilities,CNP
+utilities,Utilities,multiutilities,CMS
+utilities,Utilities,multiutilities,DTE
+utilities,Utilities,multiutilities,ES
+utilities,Utilities,multiutilities,EXC
+utilities,Utilities,multiutilities,NEE
+utilities,Utilities,multiutilities,NI
+utilities,Utilities,multiutilities,PCG
+utilities,Utilities,multiutilities,PNW
+utilities,Utilities,multiutilities,SCG
+utilities,Utilities,multiutilities,SRE
+utilities,Utilities,multiutilities,XEL
+utilities,Utilities,independent_power_producers_&_energy_traders,AES
+utilities,Utilities,independent_power_producers_&_energy_traders,NRG
+utilities,Utilities,electric_utilities,AEP
+utilities,Utilities,electric_utilities,ED
+utilities,Utilities,electric_utilities,D
+utilities,Utilities,electric_utilities,DUK
+utilities,Utilities,electric_utilities,EIX
+utilities,Utilities,electric_utilities,ETR
+utilities,Utilities,electric_utilities,FE
+utilities,Utilities,electric_utilities,POM
+utilities,Utilities,electric_utilities,PPL
+utilities,Utilities,electric_utilities,PEG
+utilities,Utilities,electric_utilities,SO
+utilities,Utilities,electric_utilities,TE
+utilities,Utilities,electric_utilities,WEC
+materials,Materials,steel,NUE
+materials,Materials,gold,NEM
+materials,Materials,aluminum,AA
+materials,Materials,metal_&_glass_containers,BLL
+materials,Materials,metal_&_glass_containers,OI
+materials,Materials,paper_products,IP
+materials,Materials,fertilizers_&_agricultural_chemicals,CF
+materials,Materials,fertilizers_&_agricultural_chemicals,MON
+materials,Materials,fertilizers_&_agricultural_chemicals,MOS
+materials,Materials,paper_packaging,AVY
+materials,Materials,paper_packaging,WRK
+materials,Materials,paper_packaging,SEE
+materials,Materials,diversified_metals_&_mining,FCX
+materials,Materials,construction_materials,MLM
+materials,Materials,construction_materials,VMC
+materials,Materials,industrial_gases,APD
+materials,Materials,industrial_gases,ARG
+materials,Materials,industrial_gases,PX
+materials,Materials,specialty_chemicals,ECL
+materials,Materials,specialty_chemicals,IFF
+materials,Materials,specialty_chemicals,SHW
+materials,Materials,diversified_chemicals,DOW
+materials,Materials,diversified_chemicals,DD
+materials,Materials,diversified_chemicals,EMN
+materials,Materials,diversified_chemicals,FMC
+materials,Materials,diversified_chemicals,LYB
+materials,Materials,diversified_chemicals,PPG
+materials,Materials,diversified_chemicals,SIAL
+etf,EFTs,industrials,XLI
+etf,EFTs,broad,QQQ
+etf,EFTs,broad,SPY
+etf,EFTs,broad,DIA
+etf,EFTs,broad,GLD
+etf,EFTs,broad,VXX
+etf,EFTs,broad,USO
+etf,EFTs,broad,IWM
+etf,EFTs,energy,XLE
+etf,EFTs,consumer_discretionary,XLY
+etf,EFTs,utilities,XLU
+etf,EFTs,materials,XLB
+etf,EFTs,telecommunications_services,XTL
+etf,EFTs,health_care,XLV
+etf,EFTs,consumer_staples,XLP
+etf,EFTs,financials,XLF
+etf,EFTs,information_technology,XLK
+telecommunications_services,Telecom,integrated_telecommunications_services,T
+telecommunications_services,Telecom,integrated_telecommunications_services,CTL
+telecommunications_services,Telecom,integrated_telecommunications_services,FTR
+telecommunications_services,Telecom,integrated_telecommunications_services,VZ
+telecommunications_services,Telecom,alternative_carriers,LVLT
+"consumer_staples,""Consumer"
+"Staples"",household_products,CLX"
+"consumer_staples,""Consumer"
+"Staples"",household_products,CL"
+"consumer_staples,""Consumer"
+"Staples"",household_products,KMB"
+"consumer_staples,""Consumer"
+"Staples"",distillers_&_vintners,BF-B"
+"consumer_staples,""Consumer"
+"Staples"",distillers_&_vintners,STZ"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,CPB"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,CAG"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,GIS"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,HRL"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,K"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,GMCR"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,MKC"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,MJN"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,MDLZ"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,SJM"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,HSY"
+"consumer_staples,""Consumer"
+"Staples"",packaged_foods_&_meats,TSN"
+"consumer_staples,""Consumer"
+"Staples"",tobacco,MO"
+"consumer_staples,""Consumer"
+"Staples"",tobacco,PM"
+"consumer_staples,""Consumer"
+"Staples"",tobacco,RAI"
+"consumer_staples,""Consumer"
+"Staples"",drug_retail,CVS"
+"consumer_staples,""Consumer"
+"Staples"",drug_retail,WBA"
+"consumer_staples,""Consumer"
+"Staples"",agricultural_products,ADM"
+"consumer_staples,""Consumer"
+"Staples"",food_distributors,SYY"
+"consumer_staples,""Consumer"
+"Staples"",hypermarkets_&_super_centers,COST"
+"consumer_staples,""Consumer"
+"Staples"",hypermarkets_&_super_centers,WMT"
+"consumer_staples,""Consumer"
+"Staples"",personal_products,EL"
+"consumer_staples,""Consumer"
+"Staples"",personal_products,PG"
+"consumer_staples,""Consumer"
+"Staples"",brewers,TAP"
+"consumer_staples,""Consumer"
+"Staples"",soft_drinks,KO"
+"consumer_staples,""Consumer"
+"Staples"",soft_drinks,CCE"
+"consumer_staples,""Consumer"
+"Staples"",soft_drinks,DPS"
+"consumer_staples,""Consumer"
+"Staples"",soft_drinks,MNST"
+"consumer_staples,""Consumer"
+"Staples"",soft_drinks,PEP"
+"consumer_staples,""Consumer"
+"Staples"",food_retail,KR"
+"consumer_staples,""Consumer"
+"Staples"",food_retail,WFM"
+financials,Financials,asset_management_&_custody_banks,AMG
+financials,Financials,asset_management_&_custody_banks,BLK
+financials,Financials,asset_management_&_custody_banks,BEN
+financials,Financials,asset_management_&_custody_banks,IVZ
+financials,Financials,asset_management_&_custody_banks,LM
+financials,Financials,asset_management_&_custody_banks,NTRS
+financials,Financials,consumer_finance,AXP
+financials,Financials,consumer_finance,HRB
+financials,Financials,consumer_finance,COF
+financials,Financials,consumer_finance,DFS
+financials,Financials,consumer_finance,NAVI
+financials,Financials,thrifts_&_mortgage_finance,HCBK
+financials,Financials,thrifts_&_mortgage_finance,PBCT
+financials,Financials,investment_banking_&_brokerage,SCHW
+financials,Financials,investment_banking_&_brokerage,ETFC
+financials,Financials,investment_banking_&_brokerage,GS
+financials,Financials,investment_banking_&_brokerage,MS
+financials,Financials,office_reits,O
+financials,Financials,office_reits,SLG
+financials,Financials,retail_reits,MAC
+financials,Financials,specialized_reits,AMT
+financials,Financials,real_estate_services,CBG
+financials,Financials,diversified_financial_services,AMP
+financials,Financials,diversified_financial_services,CME
+financials,Financials,diversified_financial_services,EFX
+financials,Financials,diversified_financial_services,ICE
+financials,Financials,diversified_financial_services,MHFI
+financials,Financials,diversified_financial_services,MCO
+financials,Financials,diversified_financial_services,NDAQ
+financials,Financials,diversified_financial_services,PFG
+financials,Financials,diversified_financial_services,PLD
+financials,Financials,diversified_financial_services,PRU
+financials,Financials,diversified_financial_services,RF
+financials,Financials,diversified_financial_services,STT
+financials,Financials,diversified_financial_services,TROW
+financials,Financials,diversified_financial_services,UNM
+financials,Financials,diversified_financial_services,VTR
+financials,Financials,life_&_health_insurance,AFL
+financials,Financials,life_&_health_insurance,GNW
+financials,Financials,life_&_health_insurance,MET
+financials,Financials,life_&_health_insurance,TMK
+financials,Financials,property_&_casualty_insurance,ACE
+financials,Financials,property_&_casualty_insurance,ALL
+financials,Financials,property_&_casualty_insurance,AIG
+financials,Financials,property_&_casualty_insurance,CB
+financials,Financials,property_&_casualty_insurance,CINF
+financials,Financials,property_&_casualty_insurance,HIG
+financials,Financials,property_&_casualty_insurance,PGR
+financials,Financials,property_&_casualty_insurance,TRV
+financials,Financials,property_&_casualty_insurance,XL
+financials,Financials,residential_reits,AVB
+financials,Financials,residential_reits,ESS
+financials,Financials,banks,BAC
+financials,Financials,banks,BK
+financials,Financials,banks,BBT
+financials,Financials,banks,C
+financials,Financials,banks,CMA
+financials,Financials,banks,FITB
+financials,Financials,banks,HBAN
+financials,Financials,banks,JPM
+financials,Financials,banks,KEY
+financials,Financials,banks,MTB
+financials,Financials,banks,PNC
+financials,Financials,banks,STI
+financials,Financials,banks,USB
+financials,Financials,banks,WFC
+financials,Financials,banks,ZION
+financials,Financials,reits,AIV
+financials,Financials,reits,BXP
+financials,Financials,reits,CCI
+financials,Financials,reits,EQR
+financials,Financials,reits,GGP
+financials,Financials,reits,HCP
+financials,Financials,reits,HCN
+financials,Financials,reits,HST
+financials,Financials,reits,KIM
+financials,Financials,reits,PCL
+financials,Financials,reits,PSA
+financials,Financials,reits,SPG
+financials,Financials,reits,VNO
+financials,Financials,reits,WY
+financials,Financials,multi-sector_holdings,BRK-B
+financials,Financials,multi-sector_holdings,LUK
+financials,Financials,multi-sector_holdings,L
+financials,Financials,insurance_brokers,AON
+financials,Financials,insurance_brokers,MMC
+financials,Financials,multi-line_insurance,AIZ
+financials,Financials,multi-line_insurance,LNC
+health_care,Health Care,health_care_facilities,DVA
+health_care,Health Care,health_care_facilities,HCA
+health_care,Health Care,health_care_facilities,LH
+health_care,Health Care,health_care_facilities,DGX
+health_care,Health Care,health_care_facilities,THC
+health_care,Health Care,health_care_facilities,UHS
+health_care,Health Care,health_care_supplies,XRAY
+health_care,Health Care,health_care_supplies,PDCO
+health_care,Health Care,managed_health_care,AET
+health_care,Health Care,managed_health_care,CI
+health_care,Health Care,managed_health_care,HUM
+health_care,Health Care,managed_health_care,UNH
+health_care,Health Care,managed_health_care,ANTM
+health_care,Health Care,health_care_distribution_&_services,ABC
+health_care,Health Care,pharmaceuticals,ABBV
+health_care,Health Care,pharmaceuticals,AGN
+health_care,Health Care,pharmaceuticals,ENDP
+health_care,Health Care,pharmaceuticals,LLY
+health_care,Health Care,pharmaceuticals,MNK
+health_care,Health Care,pharmaceuticals,MRK
+health_care,Health Care,pharmaceuticals,MYL
+health_care,Health Care,pharmaceuticals,PRGO
+health_care,Health Care,pharmaceuticals,PFE
+health_care,Health Care,pharmaceuticals,ZTS
+health_care,Health Care,health_care_equipment_&_services,ABT
+health_care,Health Care,health_care_equipment_&_services,A
+health_care,Health Care,health_care_equipment_&_services,BCR
+health_care,Health Care,health_care_equipment_&_services,BAX
+health_care,Health Care,health_care_equipment_&_services,BDX
+health_care,Health Care,health_care_equipment_&_services,BSX
+health_care,Health Care,health_care_equipment_&_services,EW
+health_care,Health Care,health_care_equipment_&_services,HSP
+health_care,Health Care,health_care_equipment_&_services,ISRG
+health_care,Health Care,health_care_equipment_&_services,JNJ
+health_care,Health Care,health_care_equipment_&_services,MDT
+health_care,Health Care,health_care_equipment_&_services,PKI
+health_care,Health Care,health_care_equipment_&_services,STJ
+health_care,Health Care,health_care_equipment_&_services,SYK
+health_care,Health Care,health_care_equipment_&_services,TMO
+health_care,Health Care,health_care_equipment_&_services,VAR
+health_care,Health Care,health_care_equipment_&_services,ZBH
+health_care,Health Care,health_care_distributors_&_services,BMY
+health_care,Health Care,health_care_distributors_&_services,CAH
+health_care,Health Care,health_care_distributors_&_services,CERN
+health_care,Health Care,health_care_distributors_&_services,ESRX
+health_care,Health Care,health_care_distributors_&_services,MCK
+health_care,Health Care,health_care_distributors_&_services,WAT
+health_care,Health Care,biotechnology,ALXN
+health_care,Health Care,biotechnology,AMGN
+health_care,Health Care,biotechnology,BXLT
+health_care,Health Care,biotechnology,BIIB
+health_care,Health Care,biotechnology,CELG
+health_care,Health Care,biotechnology,GILD
+health_care,Health Care,biotechnology,REGN
+health_care,Health Care,biotechnology,VRTX
+health_care,Health Care,health_care_distributors,HSIC
